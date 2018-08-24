@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Master</string>
+    <string name="sz">Szoveg</string>
+    <string name="ssss">Detail</string>
+
+    <string name="primaryText">Japanese Fairy Tales</string>
+    <string name="secondaryText">Jan 1, 1908\nby Yei Theodora Ozaki</string>
+
+    <string name="no_internet">Sorry, no internet connection!</string>
+    <string name="sorry">Sorry, no articles!</string>
+    <string name="action_share">Share</string>
+    <string name="up">Up</string>
+</resources>

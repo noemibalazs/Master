@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="appbar_layout_height">112dp</dimen>
+    <dimen name="list_item_image_height">200dp</dimen>
+
+    <integer name="gallery_columns">1</integer>
+
+    <dimen name="detail_height">300dp</dimen>
+    <dimen name="detail_body_size">22sp</dimen>
+
+</resources>
